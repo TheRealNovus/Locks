@@ -1,0 +1,6 @@
+name: Locks
+version: 1.0.0
+description: Lock chests, doors, and more!
+
+main: me.novus.locks.LocksPlugin
+platform: SERVER
